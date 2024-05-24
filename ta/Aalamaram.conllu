@@ -1,0 +1,131 @@
+# sent_id = wiki_5246_BEC69D7F_0
+# sent_no = 180
+# text = தமிழ்மொழியில் மக்களை உணர்த்தும் சொல் உயர்திணை.
+# text_en = In Tamil language, the word that expresses people is uyarthinai
+# translit =  tamiḻmoḻiyil makkaḷai uṇarttum col uyartiṇai.
+# source = Kaggle_disisbig_Tamil_Wikipedia_Articles
+1	தமிழ்மொழியில்	தமிழ்மொழி	PROPN	PROPN	Animacy=Nhum|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	Entity=B_LANG
+2	மக்களை	மக்கள்	NOUN	NOUN	Animacy=Hum|Case=Acc|Gender=Com|Number=Plur	3	obj	_	_
+3	உணர்த்தும்	உணர்	VERB	TR	Animacy=Nhum|Gender=Neut|Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Part|Voice=Act	4	acl:relcl	_	_
+4	சொல்	சொல்	NOUN	NOUN	Animacy=Nhum|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+5	உயர்திணை	உயர்திணை	NOUN	NOUN	Animacy=Nhum|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
+
+# sent_id = news_3325_374EFDB2_2
+# sent_no = 3
+# text = இங்கே கலை உற்பத்தியாகிறது.
+# text_en = Here art is produced.
+# translit = iṅkē kalai uṟpattiyākiṟatu.
+# source = theekkathir_news_articles
+1	இங்கே	இங்கு	ADV	PLA	_	4	advmod:lmod	_	_
+2	கலை	கலை	NOUN	NOUN	Animacy=Nhum|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+3-4	உற்பத்தியாகிறது	_	_	_	_	_	_	_	SpaceAfter=No
+3	உற்பத்தி	உற்பத்தி	NOUN	NOUN	Animacy=Nhum|Case=Nom|Gender=Neut|Number=Sing	4	compound:lvc	_	_
+4	ஆகிறது	ஆகு	AUX	AUX	Animacy=Nhum|Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
+
+# sent_id = news_3312_DD0B8287_0
+# sent_no = 4
+# text = போதுமான மருத்துவர்கள் இல்லை.
+# text_en = There are not enough doctors.
+# translit = pōtumāṉa maruttuvarkaḷ illai.
+# source = theekkathir_news_articles
+1	போதுமான	போதும்	ADJ	QUA	_	2	amod	_	_
+2	மருத்துவர்கள்	மருத்துவர்	NOUN	NOUN	Animacy=Hum|Case=Nom|Gender=Com|Number=Plur	3	nsubj	_	_
+3	இல்லை	இல்	VERB	IN	Gender=Neut|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
+
+# sent_id = news_3312_DD0B8287_1
+# sent_no = 5
+# text = மருத்துவ பணியாளர்கள் இல்லை.
+# text_en = There are no medical staff.
+# translit = maruttuva paṇiyāḷarkaḷ illai.
+# source = theekkathir_news_articles
+1	மருத்துவ	மருத்துவம்	NOUN	NOUN	Animacy=Nhum|Case=Nom|Gender=Neut|Number=Sing	2	nmod	_	_
+2	பணியாளர்கள்	பணியாளர்	NOUN	NOUN	Animacy=Hum|Case=Nom|Gender=Com|Number=Plur	3	nsubj	_	_
+3	இல்லை	இல்	VERB	IN	Gender=Neut|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
+
+# sent_id = news_3312_DD0B8287_2
+# sent_no = 6
+# text = அத்தியாவசிய மருந்துகள் கூட இருப்பதில்லை.
+# text_en = Even essential medicines are not available.
+# translit =Attiyāvaciya maruntukaḷ kūṭa iruppatillai.
+# source = theekkathir_news_articles
+1	அத்தியாவசிய	அத்தியாவசிய	ADJ	QAA	_	2	amod	_	_
+2	மருந்துகள்	மருந்து	NOUN	NOUN	Animacy=Nhum|Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	_
+3	கூட	கூட	ADP	ADP	AdpType=Post	2	case	_	_
+4-5	இருப்பதில்லை	_	_	_	_	_	_	_	SpaceAfter=No
+4	இருப்பது	இரு	VERB	IN	Animacy=Nhum|Gender=Neut|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Conv|Voice=Act	0	root	_	_
+5	இல்லை	இல்	AUX	AUX	Animacy=Nhum|Mood=Ind|Person=3|Polarity=Neg|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+6	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
+
+# sent_id = wiki_5246_BEC69D7F_2
+# sent_no = 182
+# text = இது பெண் ஒருத்தியை மட்டுமே குறிக்கும்.
+# text_en =  It refers to a woman only.
+# translit =  Itu peṇ oruttiyai maṭṭumē kuṟikkum.
+# source = Kaggle_disisbig_Tamil_Wikipedia_Articles
+1	இது	இது	PRON	DP	Animacy=Nhum|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+2	பெண்	பெண்	NOUN	NOUN	Animacy=Hum|Case=Nom|Gender=Fem|Number=Sing	3	nmod	_	_
+3	ஒருத்தியை	ஒருத்தி	NOUN	NOUN	Animacy=Hum|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+4-5	மட்டுமே	_	_	_	_	_	_	_	_
+4	மட்டும்	மட்டும்	ADV	RELA	_	6	advmod	_	_
+5	ஏ	ஏ	PART	PART	_	4	advmod:emph	_	_
+6	குறிக்கும்	குறி	VERB	TR	Animacy=Nhum|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
+
+# sent_id = news_3314_47AF8E1C_1
+# sent_no = 8
+# text = மூன்று சட்டங்களையும் ரத்து செய்.
+# text_en = Repeal all three laws.
+# translit = mūṉṟu caṭṭaṅkaḷaiyum rattu cey.
+# source = theekkathir_news_articles
+1	மூன்று	மூன்று	NUM	NUM	Number=Count|NumForm=Word|NumType=Card	2	nummod	_	Entity=B_CARDINAL
+2-3	சட்டங்களையும்	_	_	_	_	_	_	_	_
+2	சட்டங்களை	சட்டம்	NOUN	NOUN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Neut|Number=Plur	5	nsubj	_	_
+3	உம்	உம்	ADP	ADP	_	2	case	_	_
+4	ரத்து	ரத்து	NOUN	NOUN	Animacy=Nhum|Case=Nom|Gender=Neut|Number=Sing	5	compound:lvc	_	_
+5	செய்	செய்	VERB	TR	Animacy=Nhum|Gender=Neut|Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
+
+# sent_id = wiki_5228_3B18A808_2
+# sent_no = 185
+# text = இவன் குதிரை பூட்டிய தேரில் செல்வான்.
+# text_en =  He will ride in a horse-drawn chariot.
+# translit =  Ivaṉ kutirai pūṭṭiya tēril celvāṉ.
+# source = Kaggle_disisbig_Tamil_Wikipedia_Articles
+1	இவன்	இவன்	PRON	PEP	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	குதிரை	குதிரை	NOUN	NOUN	Animacy=Nhum|Case=Nom|Gender=Neut|Number=Sing	3	obj	_	_
+3	பூட்டிய	பூட்டி	VERB	TR	Animacy=Nhum|Gender=Neut|Mood=Ind|Tense=Past|VerbForm=Part|Voice=Act	4	acl:relcl	_	_
+4	தேரில்	தேர்	NOUN	NOUN	Animacy=Nhum|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+5	செல்வான்	செல்	VERB	IN	Animacy=Hum|Gender=Masc|Mood=Ind|Number=Sing|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
+
+# sent_id = wiki_5208_F2A850DA_0
+# sent_no = 186
+# text = இதன் பூங்கொத்தில் 10 எண்ணிக்கையிலான பூக்கள் இருக்கும்.
+# text_en = Its bouquet consists of 10 flowers.
+# translit =  Itaṉ pūṅkottil 10 eṇṇikkaiyilāṉa pūkkaḷ irukkum.
+# source = Kaggle_disisbig_Tamil_Wikipedia_Articles
+1	இதன்	இது	PRON	POP	Animacy=Nhum|Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	2	nmod	_	_
+2	பூங்கொத்தில்	பூங்கொத்து	NOUN	NOUN	Animacy=Nhum|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+3	10	10	NUM	NUM	Number=Count|NumForm=Digit|NumType=Card	4	nummod	_	Entity=B_CARDINAL
+4	எண்ணிக்கையிலான	எண்ணிக்கை	ADJ	QUA	_	5	amod	_	_
+5	பூக்கள்	பூ	NOUN	NOUN	Animacy=Nhum|Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	_
+6	இருக்கும்	இரு	VERB	IN	Animacy=Nhum|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
+
+# sent_id = news_3324_74B898EA_1
+# sent_no = 11
+# text = மக்களின் வாழ்வாதாரத்தை பாதுகாப்பதா?
+# text_en = Protecting people's livelihood?
+# translit = makkaḷiṉ vāḻvātārattai pātukāppatā?
+# source = theekkathir_news_articles
+1	மக்களின்	மக்கள்	NOUN	NOUN	Animacy=Hum|Case=Gen|Gender=Com|Number=Plur	2	nmod	_	_
+2	வாழ்வாதாரத்தை	வாழ்வாதாரம்	NOUN	NOUN	Animacy=Nhum|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+3-4	பாதுகாப்பதா	_	_	_	_	_	_	_	SpaceAfter=No
+3	பாதுகாப்பது	பாதுகா	VERB	TR	Animacy=Nhum|Gender=Neut|Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Part|Voice=Act	0	root	_	_
+4	ஆ	ஆ	AUX	AUX	_	3	aux:q	_	_
+5	?	?	PUNCT	PUNCT	PunctType=Qest	3	punct	_	_
+
